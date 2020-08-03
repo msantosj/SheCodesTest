@@ -80,7 +80,7 @@ background:#885df1;
       </button>
     </section>
     <script>
-      function applyNow()) {
+      function applyNow() {
         let firstName = prompt("What is your first name?");
         let age = prompt("How old are you?");
         let h1 == document.querySelector("h1");
