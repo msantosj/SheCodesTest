@@ -51,11 +51,11 @@
         line-height: 22px;
         padding: 16px 24px;
         text-decoration: none;
-        transition: {all 200ms ease);
+        transition: all 200ms ease;
       }
 
 button:hover {}
-        color: #fff;
+        color: #ffff;
         background: #885df1;
       }
     </style>
