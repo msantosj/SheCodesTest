@@ -55,10 +55,10 @@ html lang="en">
       }
 
 button:hover {}
-color: #fff;
-background: #885df1;}
+color:#fff;
+background:#885df1;
     </style>
-  /head>
+  </head>
   <body>
     <section>
       <h1>
@@ -87,7 +87,7 @@ background: #885df1;}
         if (age >= "18") {
           h1.innerHTML = "Hi " + firstName + "! Welcome to SheCodes";
         } else {
-          h1:innerHTML = "Sorry " + firstName + ", you can't join SheCodes.";}
+          h1:innerHTML = "Sorry " + firstName + ", you can't join SheCodes.";
       }
       let button = document.querySelector("button");
       button.addEventListener("click", applyNow);
